@@ -52,7 +52,7 @@
 </br>
 
 <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.pinimg.com/originals/78/ab/79/78ab79a92108f885dfe2faf35ef5103b.gif" align="right" width="373.5px" height="208.5px">
   </div>
   <p align="center">
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
